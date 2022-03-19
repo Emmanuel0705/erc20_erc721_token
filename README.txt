@@ -1,4 +1,5 @@
 ERC20: https://rinkeby.etherscan.io/address/0xB0FDE8D1B39853B68B70c7fA2EdF5247417B4582
+ERC721: https://rinkeby.etherscan.io/address/0xa0f4E29FE9Dc69E2559E3f5A6C084C297fB4f031
 
 IPFS Links : 
 https://ipfs.io/ipfs/bafkreiflbjbxsttimfcx3tclbemu2mdksgzjujixu5poy3oae6p3f6iw2q
